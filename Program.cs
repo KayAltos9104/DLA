@@ -7,6 +7,9 @@ namespace DLA
     {
         static void Main(string[] args)
         {
+            //Комментарий от преподавателя
+            //В худой котомк поклав ржаное хлебо
+            //Я ухожу туда, где птичья звон
             Console.WriteLine("Hello!\nPlease, write the number of living cells:");
             int numberOfivingCells = int.Parse(Console.ReadLine());
             WorkingWithMatrix start = new WorkingWithMatrix();
